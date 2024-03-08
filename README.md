@@ -1,9 +1,9 @@
 # PrimeiroCommit
-<h1><center> Bem vindo ao meu pimeiro commit
+<h1> Bem vindo ao meu pimeiro commit
 
-Aqui estão alguns comandos Git:
+<h3>Aqui estão alguns comandos Git:
 
-Git add:
+<h3>Git add:
 
 
-Git checkout:
+<h3>Git checkout:
