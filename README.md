@@ -12,7 +12,7 @@
 git add <arquivo>
 
 <h4>todos ao mesmo tempo:</h4>
-git add -A`teste`
+git add -A 
 
 <h3>📦Git branch:</h3>
 <P>O comando git branch serve para criar, listar e excluir as branches.</P>
